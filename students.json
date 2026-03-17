@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Brock",
+        "email": "brock@university.ca",
+        "year": 1,
+        "gpa": 3.58,
+        "courses_taken": [
+            "CMPUT 101"
+        ]
+    },
+    {
+        "name": "Misty",
+        "email": "misty@university.ca",
+        "year": 2,
+        "gpa": 3.52,
+        "courses_taken": [
+            "CMPUT 328",
+            "CMPUT 366",
+            "CMPUT 201",
+            "CMPUT 379"
+        ]
+    },
+    {
+        "name": "Lt. Surge",
+        "email": "lt. surge@university.ca",
+        "year": 4,
+        "gpa": 2.7,
+        "courses_taken": [
+            "CMPUT 366",
+            "CMPUT 379",
+            "CMPUT 291",
+            "CMPUT 401"
+        ]
+    },
+    {
+        "name": "Erika",
+        "email": "erika@university.ca",
+        "year": 2,
+        "gpa": 3.13,
+        "courses_taken": [
+            "CMPUT 200"
+        ]
+    },
+    {
+        "name": "Koga",
+        "email": "koga@university.ca",
+        "year": 3,
+        "gpa": 3.13,
+        "courses_taken": [
+            "CMPUT 379",
+            "CMPUT 461",
+            "CMPUT 301",
+            "CMPUT 301",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Janine",
+        "email": "janine@university.ca",
+        "year": 4,
+        "gpa": 3.47,
+        "courses_taken": [
+            "CMPUT 469",
+            "CMPUT 467",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Sabrina",
+        "email": "sabrina@university.ca",
+        "year": 4,
+        "gpa": 2.78,
+        "courses_taken": [
+            "CMPUT 429",
+            "CMPUT 496",
+            "CMPUT 101",
+            "CMPUT 101",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Blaine",
+        "email": "blaine@university.ca",
+        "year": 2,
+        "gpa": 3.55,
+        "courses_taken": [
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Giovanni",
+        "email": "giovanni@university.ca",
+        "year": 2,
+        "gpa": 3.39,
+        "courses_taken": [
+            "CMPUT 174",
+            "CMPUT 174",
+            "CMPUT 256",
+            "CMPUT 300",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Falkner",
+        "email": "falkner@university.ca",
+        "year": 2,
+        "gpa": 3.9,
+        "courses_taken": [
+            "CMPUT 304"
+        ]
+    },
+    {
+        "name": "Bugsy",
+        "email": "bugsy@university.ca",
+        "year": 1,
+        "gpa": 3.92,
+        "courses_taken": [
+            "CMPUT 191",
+            "CMPUT 261",
+            "CMPUT 272",
+            "CMPUT 274",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Whitney",
+        "email": "whitney@university.ca",
+        "year": 2,
+        "gpa": 3.34,
+        "courses_taken": [
+            "CMPUT 328",
+            "CMPUT 200",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Morty",
+        "email": "morty@university.ca",
+        "year": 3,
+        "gpa": 2.53,
+        "courses_taken": [
+            "CMPUT 101",
+            "CMPUT 496",
+            "CMPUT 461"
+        ]
+    },
+    {
+        "name": "Chuck",
+        "email": "chuck@university.ca",
+        "year": 2,
+        "gpa": 3.64,
+        "courses_taken": [
+            "CMPUT 328",
+            "CMPUT 229",
+            "CMPUT 101",
+            "CMPUT 250",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Jasmine",
+        "email": "jasmine@university.ca",
+        "year": 4,
+        "gpa": 2.27,
+        "courses_taken": [
+            "CMPUT 175",
+            "CMPUT 496",
+            "CMPUT 466",
+            "CMPUT 191"
+        ]
+    },
+    {
+        "name": "Pryce",
+        "email": "pryce@university.ca",
+        "year": 3,
+        "gpa": 3.52,
+        "courses_taken": [
+            "CMPUT 404",
+            "CMPUT 272",
+            "CMPUT 174",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Clair",
+        "email": "clair@university.ca",
+        "year": 3,
+        "gpa": 3.12,
+        "courses_taken": [
+            "CMPUT 175",
+            "CMPUT 275",
+            "CMPUT 469",
+            "CMPUT 101",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Roxanne",
+        "email": "roxanne@university.ca",
+        "year": 2,
+        "gpa": 3.43,
+        "courses_taken": [
+            "CMPUT 267",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Brawly",
+        "email": "brawly@university.ca",
+        "year": 3,
+        "gpa": 2.66,
+        "courses_taken": [
+            "CMPUT 496",
+            "CMPUT 267",
+            "CMPUT 206",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Wattson",
+        "email": "wattson@university.ca",
+        "year": 0,
+        "gpa": 4.0,
+        "courses_taken": [
+            "CMPUT 191"
+        ]
+    },
+    {
+        "name": "Flannery",
+        "email": "flannery@university.ca",
+        "year": 2,
+        "gpa": 3.69,
+        "courses_taken": [
+            "CMPUT 256",
+            "CMPUT 365",
+            "CMPUT 267",
+            "CMPUT 256"
+        ]
+    },
+    {
+        "name": "Norman",
+        "email": "norman@university.ca",
+        "year": 3,
+        "gpa": 3.07,
+        "courses_taken": [
+            "CMPUT 401",
+            "CMPUT 275",
+            "CMPUT 301"
+        ]
+    },
+    {
+        "name": "Winona",
+        "email": "winona@university.ca",
+        "year": 3,
+        "gpa": 3.07,
+        "courses_taken": [
+            "CMPUT 201",
+            "CMPUT 328",
+            "CMPUT 467",
+            "CMPUT 267",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Tate",
+        "email": "tate@university.ca",
+        "year": 4,
+        "gpa": 3.93,
+        "courses_taken": [
+            "CMPUT 274",
+            "CMPUT 256",
+            "CMPUT 461",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Liza",
+        "email": "liza@university.ca",
+        "year": 3,
+        "gpa": 3.79,
+        "courses_taken": [
+            "CMPUT 379",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Wallace",
+        "email": "wallace@university.ca",
+        "year": 3,
+        "gpa": 2.94,
+        "courses_taken": [
+            "CMPUT 365",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Juan",
+        "email": "juan@university.ca",
+        "year": 1,
+        "gpa": 3.77,
+        "courses_taken": [
+            "CMPUT 256"
+        ]
+    },
+    {
+        "name": "Roark",
+        "email": "roark@university.ca",
+        "year": 4,
+        "gpa": 3.75,
+        "courses_taken": [
+            "CMPUT 429",
+            "CMPUT 175",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Gardenia",
+        "email": "gardenia@university.ca",
+        "year": 4,
+        "gpa": 3.09,
+        "courses_taken": [
+            "CMPUT 304",
+            "CMPUT 461",
+            "CMPUT 191",
+            "CMPUT 229"
+        ]
+    },
+    {
+        "name": "Maylene",
+        "email": "maylene@university.ca",
+        "year": 4,
+        "gpa": 2.47,
+        "courses_taken": [
+            "CMPUT 191",
+            "CMPUT 467",
+            "CMPUT 229"
+        ]
+    },
+    {
+        "name": "Crasher Wake",
+        "email": "crasher wake@university.ca",
+        "year": 3,
+        "gpa": 3.27,
+        "courses_taken": [
+            "CMPUT 328",
+            "CMPUT 474",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Fantina",
+        "email": "fantina@university.ca",
+        "year": 1,
+        "gpa": 3.83,
+        "courses_taken": [
+            "CMPUT 101",
+            "CMPUT 256",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Byron",
+        "email": "byron@university.ca",
+        "year": 2,
+        "gpa": 3.84,
+        "courses_taken": [
+            "CMPUT 206",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Candice",
+        "email": "candice@university.ca",
+        "year": 3,
+        "gpa": 2.51,
+        "courses_taken": [
+            "CMPUT 404",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Volkner",
+        "email": "volkner@university.ca",
+        "year": 3,
+        "gpa": 3.69,
+        "courses_taken": [
+            "CMPUT 466",
+            "CMPUT 461",
+            "CMPUT 474",
+            "CMPUT 300",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Cilan",
+        "email": "cilan@university.ca",
+        "year": 2,
+        "gpa": 3.75,
+        "courses_taken": [
+            "CMPUT 261",
+            "CMPUT 175"
+        ]
+    },
+    {
+        "name": "Chili",
+        "email": "chili@university.ca",
+        "year": 3,
+        "gpa": 3.43,
+        "courses_taken": [
+            "CMPUT 365",
+            "CMPUT 466",
+            "CMPUT 291",
+            "CMPUT 201"
+        ]
+    },
+    {
+        "name": "Cress",
+        "email": "cress@university.ca",
+        "year": 3,
+        "gpa": 3.32,
+        "courses_taken": [
+            "CMPUT 461",
+            "CMPUT 328"
+        ]
+    },
+    {
+        "name": "Lenora",
+        "email": "lenora@university.ca",
+        "year": 3,
+        "gpa": 3.32,
+        "courses_taken": [
+            "CMPUT 429",
+            "CMPUT 291"
+        ]
+    },
+    {
+        "name": "Burgh",
+        "email": "burgh@university.ca",
+        "year": 4,
+        "gpa": 3.36,
+        "courses_taken": [
+            "CMPUT 466",
+            "CMPUT 291"
+        ]
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "course": "CMPUT 101", 
+        "seats" : 20, 
+        "professor": "Mark Polak"
+    },
+    {
+        "course": "CMPUT 174", 
+        "seats" : 20, 
+        "professor": "Rob Hackman"
+    },
+    {
+        "course": "CMPUT 175", 
+        "seats" : 20, 
+        "professor": "Euijin Choo"
+    },
+    {
+        "course": "CMPUT 191", 
+        "seats" : 20, 
+        "professor": "Albert Gyamfi"
+    },
+    {
+        "course": "CMPUT 195", 
+        "seats" : 20, 
+        "professor": "Albert Gyamfi"
+    },
+    {
+        "course": "CMPUT 200", 
+        "seats" : 20, 
+        "professor": "Nidhi Hegde"
+    },
+    {
+        "course": "CMPUT 201", 
+        "seats" : 20, 
+        "professor": "Guohui Lin"
+    },
+    {
+        "course": "CMPUT 204", 
+        "seats" : 20, 
+        "professor": "Xiaoqi Tan"
+    },
+    {
+        "course": "CMPUT 206", 
+        "seats" : 20, 
+        "professor": "Nilanjan Ray"
+    },
+    {
+        "course": "CMPUT 229", 
+        "seats" : 20, 
+        "professor": "Mike MacGregor"
+    },
+    {
+        "course": "CMPUT 250", 
+        "seats" : 20, 
+        "professor": "Nathan Sturtevant"
+    },
+    {
+        "course": "CMPUT 256", 
+        "seats" : 20, 
+        "professor": "Matthew Guzdial"
+    },
+    {
+        "course": "CMPUT 261", 
+        "seats" : 20, 
+        "professor": "Levi Lelis"
+    },
+    {
+        "course": "CMPUT 267", 
+        "seats" : 20, 
+        "professor": "Vlad Tkachuk"
+    },
+    {
+        "course": "CMPUT 272", 
+        "seats" : 20, 
+        "professor": "Mohammad Salavatipour"
+    },
+    {
+        "course": "CMPUT 274", 
+        "seats" : 20, 
+        "professor": "Rob Hackman"
+    },
+    {
+        "course": "CMPUT 275", 
+        "seats" : 20, 
+        "professor": "Rob Hackman"
+    },
+    {
+        "course": "CMPUT 291", 
+        "seats" : 20, 
+        "professor": "Albert Gyamfi"
+    },
+    {
+        "course": "CMPUT 300", 
+        "seats" : 20, 
+        "professor": "Herb Yang"
+    },
+    {
+        "course": "CMPUT 301", 
+        "seats" : 20, 
+        "professor": "Hazel Campbell"
+    },
+    {
+        "course": "CMPUT 304", 
+        "seats" : 20, 
+        "professor": "Ryan Hayward"
+    },
+    {
+        "course": "CMPUT 328", 
+        "seats" : 20, 
+        "professor": "Nilanjan Ray"
+    },
+    {
+        "course": "CMPUT 365", 
+        "seats" : 20, 
+        "professor": "Marlos Machado"
+    },
+    {
+        "course": "CMPUT 366", 
+        "seats" : 20, 
+        "professor": "Levi Lelis"
+    },
+    {
+        "course": "CMPUT 379", 
+        "seats" : 20, 
+        "professor": "Omid Ardakanian"
+    },
+    {
+        "course": "CMPUT 401", 
+        "seats" : 20, 
+        "professor": "Mark Polak"
+    },
+    {
+        "course": "CMPUT 402", 
+        "seats" : 20, 
+        "professor": "Hazel Campbell"
+    },
+    {
+        "course": "CMPUT 404", 
+        "seats" : 20, 
+        "professor": "Hazel Campbell"
+    },
+    {
+        "course": "CMPUT 429", 
+        "seats" : 20, 
+        "professor": "Nelson Amaral"
+    },
+    {
+        "course": "CMPUT 461", 
+        "seats" : 20, 
+        "professor": "Denilson Barbosa"
+    },
+    {
+        "course": "CMPUT 466", 
+        "seats" : 20, 
+        "professor": "Lili Mou"
+    },
+    {
+        "course": "CMPUT 467", 
+        "seats" : 20, 
+        "professor": "Martha White"
+    },
+    {
+        "course": "CMPUT 469", 
+        "seats" : 20, 
+        "professor": "Russ Greiner"
+    },
+    {
+        "course": "CMPUT 474", 
+        "seats" : 20, 
+        "professor": "Dale Schuurmans"
+    },
+    {
+        "course": "CMPUT 496", 
+        "seats" : 20, 
+        "professor": "Bailey Kacsmar"
+    }
+]
